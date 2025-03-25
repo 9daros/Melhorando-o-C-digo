@@ -14,4 +14,4 @@ Foram realizadas diversas melhorias no código, visando otimização e clareza:
 
 ## Integrantes do Grupo
 - [Henrique Daros](https://github.com/9daros)
-- [Eduardo](https://github.com/integrante2)
+- [Eduardo](https://github.com/DuduXXXX)
